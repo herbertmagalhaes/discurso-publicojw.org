@@ -1,0 +1,11 @@
+ARQUIVOS DO SITE DISCURSOS PÚBLICOS JW
+
+Na pasta principal do site devem ficar index.html e app.js.
+A imagem do convite deve ficar em assets/convite-modelo-base.png.
+
+CORREÇÃO DESTA VERSÃO:
+- Ajusta o tamanho e a largura dos campos de data, dia, horário e período no convite para telas de celular.
+- Mantém o tema e o nome do orador com ajuste de tamanho.
+
+Para atualizar no GitHub Pages, substitua index.html e app.js e mantenha a pasta assets com a imagem.
+Depois de publicar, feche a aba do site no celular, abra novamente e atualize a página.
